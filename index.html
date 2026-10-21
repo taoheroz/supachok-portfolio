@@ -414,7 +414,7 @@ h1[tabindex="-1"]:focus,h2[tabindex="-1"]:focus{outline:none}
 .hbars .row{display:grid;grid-template-columns:minmax(0,9.5em) minmax(0,1fr) 34px;gap:10px;align-items:center;font-size:13.5px;color:var(--muted)}
 .hbars .row b{color:var(--ink);text-align:right;font-variant-numeric:tabular-nums}
 .ga4-img{display:block;padding:0;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#fff;cursor:zoom-in;width:100%}.ga4-img img{width:100%;height:auto}
-.toolgroups{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}.tg-h{font-size:13px;font-weight:600;color:var(--muted);margin-bottom:8px}@media (max-width:900px){.toolgroups{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (max-width:520px){.toolgroups{grid-template-columns:minmax(0,1fr)}}
+.toolgroups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.devf{margin-top:12px;font-size:13px;color:var(--muted)}.tg-h{font-size:13px;font-weight:600;color:var(--muted);margin-bottom:8px}@media (max-width:900px){.toolgroups{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (max-width:520px){.toolgroups{grid-template-columns:minmax(0,1fr)}}
 .toolchips{display:flex;flex-wrap:wrap;gap:8px}
 .toolchips span{font-size:13.5px;font-weight:600;padding:6px 12px;border-radius:999px;border:1px dashed var(--stitch);background:var(--label);color:var(--label-ink)}
 @media (max-width:900px){.dgrid{grid-template-columns:minmax(0,1fr)}.dcard.w4,.dcard.w2,.dcard.w3{grid-column:auto}}
@@ -729,7 +729,7 @@ dialog.hoop{width:min(400px,calc(100vw - 24px));background:var(--surface);overfl
         <div><h3>Google และ Meta</h3><p>Google Analytics 4, Merchant Center, Google Tag, Meta Business Suite, Facebook, Instagram</p></div>
         <div><h3>Data, AI และ Workflow</h3><p>Excel, GitHub, ChatGPT, Claude, Codex, Claude Code, Cowork, Skills, Automation</p></div>
         <div><h3>Website และ Commerce</h3><p>WordPress, Shopify, YouTube Merch</p></div>
-        <div><h3>กำลังพัฒนาเพิ่ม</h3><p>Meta Ads, Google Ads, SEO / SEM</p></div>
+        <p class="devf">Development Focus: Meta Ads · Google Ads · SEO/SEM</p>
       </aside>
     </section>
 
@@ -1312,7 +1312,7 @@ function renderData(){
     <div class="hbars" role="img" aria-label="${byC.map(([c,n])=>c+" "+n+" โพสต์").join(", ")}">${byC.map(([c,n],i)=>`<div class="row" title="${esc(c)}: ${n} โพสต์ (${Math.round(n/SOCIAL.posts.length*100)}%)"><span>${esc(c)}</span><i class="bar" style="width:${n/maxC*100}%;--d2:${i*.06}s"></i><b>${n}</b></div>`).join("")}</div>
     <p class="src">แบ่งประเภทเองจากเนื้อหาของแต่ละโพสต์</p></article>
   <article class="dcard w6" style="grid-column:1/-1"><p class="dk">เครื่องมือที่ใช้</p>
-    <div class="toolgroups"><div><p class="tg-h">Google & Meta</p><div class="toolchips"><span>Google Analytics 4</span><span>Merchant Center</span><span>Google Tag</span><span>Meta Business Suite</span><span>Facebook</span><span>Instagram</span></div></div><div><p class="tg-h">Data, AI & Workflow</p><div class="toolchips"><span>Excel</span><span>GitHub</span><span>ChatGPT</span><span>Claude</span><span>Codex</span><span>Claude Code</span><span>Cowork</span><span>Skills</span><span>Automation</span></div></div><div><p class="tg-h">Website & Commerce</p><div class="toolchips"><span>WordPress</span><span>Shopify</span><span>YouTube Merch</span></div></div><div><p class="tg-h">กำลังพัฒนาเพิ่ม</p><div class="toolchips"><span>Meta Ads</span><span>Google Ads</span><span>SEO / SEM</span></div></div></div>
+    <div class="toolgroups"><div><p class="tg-h">Google & Meta</p><div class="toolchips"><span>Google Analytics 4</span><span>Merchant Center</span><span>Google Tag</span><span>Meta Business Suite</span><span>Facebook</span><span>Instagram</span></div></div><div><p class="tg-h">Data, AI & Workflow</p><div class="toolchips"><span>Excel</span><span>GitHub</span><span>ChatGPT</span><span>Claude</span><span>Codex</span><span>Claude Code</span><span>Cowork</span><span>Skills</span><span>Automation</span></div></div><div><p class="tg-h">Website & Commerce</p><div class="toolchips"><span>WordPress</span><span>Shopify</span><span>YouTube Merch</span></div></div></div><p class="devf">Development Focus: Meta Ads · Google Ads · SEO/SEM</p>
     <p class="muted" style="font-size:14.5px">รวบรวมและวิเคราะห์ข้อมูลใน Excel รายงานผลเพื่อปรับแผนแคมเปญ ดูแล Merchant Center และ Google Tag สำหรับข้อมูลสินค้าและการติดตามเว็บไซต์</p></article>`;
 }
 
