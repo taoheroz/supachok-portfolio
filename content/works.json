@@ -1,0 +1,451 @@
+{
+ "updatedAt": "2026-10-21T19:00:00+07:00",
+ "works": [
+  {
+   "id": "dynamic-product-positioning",
+   "slug": "dynamic-product-positioning",
+   "title": "Dynamic Product Positioning",
+   "summary": "เอกสาร 30 หน้า จับคู่ทรงเสื้อแต่ละรุ่นกับบุคลิก ไลฟ์สไตล์ และรสนิยมทางดนตรีของลูกค้า (IN MUSIC, GENRE, LISTENING STYLE) เพื่อช่วยเลือกสินค้าให้ตรงกับคน",
+   "categories": [
+    "กลยุทธ์แบรนด์และสินค้า"
+   ],
+   "tags": [
+    "Positioning",
+    "Persona",
+    "Product Selector",
+    "Ezy-T"
+   ],
+   "mediaType": "pdf",
+   "projectDate": "2026-10-20",
+   "datePrecision": "day",
+   "role": "วาง positioning ของสินค้า 10 รุ่น ว่าแต่ละรุ่นเหมาะกับลูกค้าแบบไหน",
+   "collaborators": [],
+   "context": "ทำให้ Ezy-T ธุรกิจขายส่งเสื้อยืดแบรนด์ GILDAN, United Athle และ American Apparel โดยแบ่งสินค้า 10 รุ่นเป็นบทละ 3 หน้า หน้าแรกบอกว่าทรงนี้เหมาะกับคนแบบไหน พร้อมชื่อรุ่นและจุดเด่นของเนื้อผ้า หน้าที่สองเป็นภาพไลฟ์สไตล์ หน้าที่สาม (IN MUSIC) โยงคนกลุ่มนั้นกับแนวเพลงและพฤติกรรมการฟังเพลง ชื่อรุ่นในเล่ม เช่น ULTRA BOXY, 1301 California Classic, Time Stage, Japanese Classic, Dean’s 90s และ Tokyo Oversized ตรงกับสินค้าที่ขายอยู่ในแคตตาล็อก EZY-T",
+   "objective": "ช่วยให้ลูกค้าเลือกรุ่นเสื้อในแคตตาล็อก Ezy-T ที่ตรงกับตัวเองได้ง่ายขึ้น โดยไม่ต้องเริ่มจากสเปกผ้า แต่เริ่มจากว่าตัวเองเป็นคนแบบไหน",
+   "process": [
+    "แบ่งสินค้าเป็น 10 ทรง ตามรุ่นที่ขายจริงในแคตตาล็อก",
+    "ทรงละ 3 หน้า: หน้าแรกบอกว่าเหมาะกับคนแบบไหน พร้อมชื่อรุ่นและจุดเด่นของเนื้อผ้า",
+    "หน้าที่สองเป็นภาพไลฟ์สไตล์ ให้เห็นภาพการใส่จริง",
+    "หน้าที่สาม (IN MUSIC) เชื่อมคนกลุ่มนั้นกับแนวเพลงและพฤติกรรมการฟังเพลง"
+   ],
+   "deliverables": [
+    "เอกสาร Product Positioning 30 หน้า"
+   ],
+   "outcomes": [],
+   "links": [
+    {
+     "url": "https://www.facebook.com/ezyt.thailand",
+     "label": "เพจ Ezy-T บน Facebook"
+    }
+   ],
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 1,
+   "status": "published",
+   "cover": "img/covers/positioning.webp",
+   "homeOrder": 1
+  },
+  {
+   "id": "merchive",
+   "slug": "merchive",
+   "title": "MERCHIVE: Merch บน YouTube Shopping",
+   "summary": "เอกสารนำเสนอบริการ MERCHIVE ของ Thinkwear ที่ช่วยศิลปินขาย Merch ใต้คลิปและบนหน้าช่อง YouTube โดยไม่ต้องสต็อกหรือแพ็กของเอง พร้อมผลลัพธ์จริง 3 สัปดาห์แรกจากศิลปินไทย",
+   "categories": [
+    "กลยุทธ์แบรนด์และสินค้า",
+    "อีคอมเมิร์ซ"
+   ],
+   "tags": [
+    "YouTube Shopping",
+    "Merch",
+    "Proposal",
+    "TH / EN"
+   ],
+   "mediaType": "pdf",
+   "projectDate": "2026",
+   "datePrecision": "year",
+   "role": "ดูแลเมนู Content และอัปเดตข้อมูล รวมถึงงานเบื้องหลังฝั่งเทคนิค",
+   "collaborators": [],
+   "context": "ทำเป็นเอกสารแนวตั้ง 10 หน้า ทั้งภาษาไทยและอังกฤษ เล่าตั้งแต่เหตุผลที่แฟนเพลงดูคลิปบน YouTube ทุกวันแต่ยังซื้อ Merch ไม่ได้ โอกาสจากแฟนต่างประเทศ วิธีเชื่อมร้านค้ากับช่อง ไปจนถึงขั้นตอนที่ศิลปินต้องทำเพียง 2 อย่าง คือเลือกสินค้ากับราคา และเชื่อมช่องครั้งเดียว",
+   "objective": "ชวนศิลปินให้เปิดขาย Merch บน YouTube Shopping กับ MERCHIVE ของ Thinkwear โดยไม่ต้องสต็อกหรือแพ็กของเอง",
+   "process": [
+    "เปิดด้วยปัญหา: แฟนเพลงดูคลิปบน YouTube ทุกวัน แต่ยังซื้อ Merch จากตรงนั้นไม่ได้",
+    "ชี้โอกาสจาก YouTube และแฟนเพลงต่างประเทศ",
+    "อธิบายว่า YouTube Shopping ให้อะไร และพิสูจน์ด้วยตัวเลข 3 สัปดาห์แรกจากศิลปินไทย",
+    "สรุปวิธีทำงาน: ศิลปินทำแค่ 2 อย่าง คือเลือกสินค้ากับราคา และเชื่อมช่องครั้งเดียว",
+    "ทำทั้งฉบับภาษาไทยและอังกฤษ"
+   ],
+   "deliverables": [
+    "เอกสารนำเสนอ 10 หน้า ภาษาไทย",
+    "เอกสารนำเสนอ 10 หน้า ภาษาอังกฤษ"
+   ],
+   "outcomes": [
+    {
+     "claim": "สินค้าถูกแสดงให้ผู้ชมเห็น 258,020 ครั้ง เฉลี่ย 12,287 ครั้งต่อวัน",
+     "evidence": "ข้อมูลในเอกสาร เก็บระหว่าง 5–24 ส.ค. 2026 (21 วัน)"
+    },
+    {
+     "claim": "มีคนกดดูรายละเอียดสินค้า 1,220 ครั้ง อัตราการคลิกประมาณ 0.47%",
+     "evidence": "ข้อมูลในเอกสาร ช่วงเดียวกัน"
+    },
+    {
+     "claim": "ยอดคลิกเฉลี่ยต่อวันเพิ่มขึ้น 51% จากสัปดาห์แรก",
+     "evidence": "ข้อมูลในเอกสาร สัปดาห์ที่ 1 เทียบสัปดาห์ที่ 3"
+    }
+   ],
+   "links": [],
+   "cover": "img/covers/merchive.webp",
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 2,
+   "status": "published",
+   "coverTall": "img/covers/merchive-tall.webp",
+   "homeOrder": 2
+  },
+  {
+   "id": "thinkwear-store",
+   "slug": "thinkwear-store",
+   "title": "Thinkwear Store",
+   "summary": "ร้านออนไลน์บน Shopify สำหรับสินค้าศิลปินและเพลง ทั้งเสื้อยืด CD แผ่นเสียง กระเป๋า และหนังสือเพลง ดูแลหน้าร้านและหลังบ้านตั้งแต่สินค้า ตัวเลือกสินค้า สต็อก คำสั่งซื้อ จนถึงโปรโมชัน",
+   "categories": [
+    "อีคอมเมิร์ซ"
+   ],
+   "tags": [
+    "Shopify",
+    "Merchandise",
+    "Music"
+   ],
+   "mediaType": "web",
+   "projectDate": null,
+   "datePrecision": "unknown",
+   "role": "ดูแลหน้าร้านและหลังบ้าน Shopify: สินค้า แค็ตตาล็อก ตัวเลือกสินค้า สต็อก คำสั่งซื้อ และโปรโมชัน",
+   "collaborators": [],
+   "context": "ร้านขายสินค้าดนตรีครบวงจรของ Thinkwear หน้าแรกมีสินค้ายอดนิยมราว 25 รายการ ราคาตั้งแต่ 200 ถึง 2,500 บาท เช่น เสื้อทัวร์ Scrubb, เสื้อ YONLAPA 2026 และแผ่นเสียง Shine Original Soundtrack",
+   "objective": null,
+   "process": [],
+   "deliverables": [
+    "หน้าร้าน Shopify ภาษาไทย",
+    "ข้อมูลสินค้าและตัวเลือกสินค้า",
+    "คอลเลกชันและหน้า Beyond the Music"
+   ],
+   "outcomes": [],
+   "links": [
+    {
+     "url": "https://thinkwearstore.myshopify.com/th",
+     "label": "เปิดร้าน Thinkwear Store"
+    }
+   ],
+   "cover": "img/covers/thinkwear-store.webp",
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 1,
+   "status": "published",
+   "homeOrder": 3
+  },
+  {
+   "id": "ezyt-catalog",
+   "slug": "ezyt-catalog",
+   "title": "EZY-T Product Catalog",
+   "summary": "แคตตาล็อกสินค้าบนเว็บ EZY-T รวมเสื้อยืดแบรนด์ GILDAN, United Athle และ American Apparel แยกตามประเภท สี และรุ่น พร้อมปุ่มออกแบบเสื้อเอง",
+   "categories": [
+    "อีคอมเมิร์ซ"
+   ],
+   "tags": [
+    "WordPress",
+    "SKU",
+    "Catalog"
+   ],
+   "mediaType": "web",
+   "projectDate": null,
+   "datePrecision": "unknown",
+   "role": "อัปเดตระบบ WordPress ข้อมูลสินค้า และข้อมูล SKU",
+   "collaborators": [],
+   "context": "สินค้าแยกเป็นกว่า 18 ประเภท เช่น คอกลม โอเวอร์ไซส์ โปโล ฮู้ด และฟลีซ กรองตามสีและเรียงตามความนิยมหรือราคาได้ แต่ละรุ่นมีรหัสสินค้าและตัวเลือกสี",
+   "objective": null,
+   "process": [],
+   "deliverables": [
+    "หน้าแคตตาล็อกและหน้าสินค้า",
+    "ข้อมูลรุ่น สี และ SKU"
+   ],
+   "outcomes": [],
+   "links": [
+    {
+     "url": "https://ezy-t.com/catalog",
+     "label": "เปิดแคตตาล็อก EZY-T"
+    }
+   ],
+   "cover": "img/covers/ezyt-catalog-framed.webp",
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 2,
+   "status": "published",
+   "homeOrder": 4
+  },
+  {
+   "id": "thinkwear-site",
+   "slug": "thinkwear-site",
+   "title": "Thinkwear Website",
+   "summary": "เว็บไซต์บริษัท Thinkwear พาร์ตเนอร์ทำ Merch ครบวงจรสำหรับวงการเพลง แบรนด์เสื้อผ้า โรงเรียน มหาวิทยาลัย และคาเฟ่ เล่าบริการตั้งแต่ออกแบบเทคนิคพิมพ์ เลือกผ้า ไปจนถึงแพ็กและจัดส่ง",
+   "categories": [
+    "อีคอมเมิร์ซ",
+    "คอนเทนต์และงานเขียน"
+   ],
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "Content Management",
+    "B2B"
+   ],
+   "mediaType": "web",
+   "projectDate": null,
+   "datePrecision": "unknown",
+   "role": "ดูแลหลังบ้านเว็บไซต์ จัดการและอัปเดตคอนเทนต์บน WordPress",
+   "collaborators": [],
+   "context": "เว็บแบ่งหมวดตามกลุ่มลูกค้า เช่น ศิลปินและค่ายเพลง แบรนด์เสื้อผ้า โรงเรียนและมหาวิทยาลัย คาเฟ่ และยูนิฟอร์ม พร้อมหน้า Thinkwear Merchive บริการเสริม และคู่มือการทำเสื้อ มีโลโก้ลูกค้าอย่าง Universal Music Thailand และสถิติงานที่ผ่านการอนุมัติกว่า 2,300 โปรเจกต์",
+   "objective": null,
+   "process": [],
+   "deliverables": [
+    "หน้าบริการแยกตามกลุ่มลูกค้า",
+    "หน้าเทคนิคการพิมพ์และบริการเสริม"
+   ],
+   "outcomes": [],
+   "links": [
+    {
+     "url": "https://thinkwear.psi.marketing/",
+     "label": "เปิดเว็บ Thinkwear"
+    }
+   ],
+   "cover": "img/covers/thinkwear-site.webp",
+   "verified": true,
+   "featured": true,
+   "featuredOrder": 3,
+   "status": "published",
+   "homeOrder": 5
+  },
+  {
+   "id": "kurostreetsim",
+   "slug": "kurostreetsim",
+   "title": "คุโรโกะ SIM (KuroStreetSIM)",
+   "summary": "เว็บแฟนเมดรวมเครื่องมือสำหรับเกม Kuroko's Basketball SR ทั้งจำลองดราฟกับเพื่อน วางแผนการเล่น 3v3 บนสนาม 3D, Tier List, คลัง Comp, รูนแนะนำ, จำลองพรสวรรค์ และเกมทายตัวละครรายวัน สร้างเองโดยใช้ AI ช่วยเขียนโค้ด",
+   "categories": [
+    "งานอดิเรก"
+   ],
+   "tags": [
+    "Website",
+    "GA4",
+    "AI workflow"
+   ],
+   "mediaType": "web",
+   "projectDate": null,
+   "datePrecision": "unknown",
+   "role": "เจ้าของโปรเจกต์ ติดตามการใช้งานด้วย GA4",
+   "collaborators": [],
+   "context": null,
+   "objective": null,
+   "process": [],
+   "deliverables": [
+    "เว็บไซต์ kurostreetsim.com",
+    "เครื่องมือจำลองดราฟ จำลองแผน Tier List คลัง Comp รูน และพรสวรรค์",
+    "เกมทายตัวละครรายวัน Kuroko DLE"
+   ],
+   "outcomes": [
+    {
+     "claim": "ผู้ใช้ active 7.5K คน, 68K views และ 115K events ใน 30 วัน",
+     "evidence": "ภาพหน้าจอรายงาน GA4 ช่วง 30 วันล่าสุด (ก.ย.–ต.ค. 2026)"
+    },
+    {
+     "claim": "ผู้ใช้ active เพิ่มขึ้น 1,006% และ views เพิ่มขึ้น 6,978% เทียบกับช่วงก่อนหน้า",
+     "evidence": "ภาพหน้าจอรายงาน GA4 เทียบกับระยะเวลาก่อนหน้า"
+    }
+   ],
+   "links": [
+    {
+     "url": "https://kurostreetsim.com/",
+     "label": "เปิดเว็บ คุโรโกะ SIM"
+    }
+   ],
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 5,
+   "status": "published",
+   "cover": "img/covers/kurostreetsim.webp",
+   "homeOrder": 6
+  },
+  {
+   "id": "friend-fight",
+   "slug": "friend-fight",
+   "title": "FRIEND FIGHT",
+   "summary": "เกมแนว auto battler ธีมกลุ่มเพื่อน เล่นบนเบราว์เซอร์ได้เลย พัฒนาร่วมกับ AI เพื่อเรียนรู้การทำเกมและเล่นกับเพื่อน",
+   "categories": [
+    "งานอดิเรก"
+   ],
+   "tags": [
+    "Game",
+    "AI workflow",
+    "GitHub Pages"
+   ],
+   "mediaType": "web",
+   "projectDate": null,
+   "datePrecision": "unknown",
+   "role": "พัฒนาเกมโดยใช้ AI",
+   "collaborators": [],
+   "context": null,
+   "objective": null,
+   "process": [],
+   "deliverables": [
+    "เกมที่เล่นได้บนเว็บเบราว์เซอร์"
+   ],
+   "outcomes": [],
+   "links": [
+    {
+     "url": "https://taoheroz.github.io/friends-auto-battler/",
+     "label": "เล่นเกม"
+    }
+   ],
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 6,
+   "status": "published",
+   "cover": "img/covers/friend-fight.webp",
+   "homeOrder": 7
+  }
+ ],
+ "books": [
+  {
+   "workId": "dynamic-product-positioning",
+   "title": "Dynamic Product Positioning",
+   "subtitle": "Products Selector",
+   "version": "ฉบับ 20 ต.ค. 2026",
+   "pageCount": 30,
+   "pagePath": "book/p{n}.webp",
+   "toc": [
+    {
+     "from": 1,
+     "to": 3,
+     "theme": "Real Life",
+     "product": "ULTRA"
+    },
+    {
+     "from": 4,
+     "to": 6,
+     "theme": "Versatility",
+     "product": "PREMIUM"
+    },
+    {
+     "from": 7,
+     "to": 9,
+     "theme": "Living Full",
+     "product": "California Classic"
+    },
+    {
+     "from": 10,
+     "to": 12,
+     "theme": "BOXY",
+     "product": "ULTRA BOXY"
+    },
+    {
+     "from": 13,
+     "to": 15,
+     "theme": "90s",
+     "product": "Dean’s 90s"
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "theme": "New Vintage",
+     "product": "TIME STAGE"
+    },
+    {
+     "from": 19,
+     "to": 21,
+     "theme": "Open Fusion",
+     "product": "Japanese Classic"
+    },
+    {
+     "from": 22,
+     "to": 24,
+     "theme": "True Oversized",
+     "product": "TOKYO OVERSIZED"
+    },
+    {
+     "from": 25,
+     "to": 27,
+     "theme": "After Workout",
+     "product": "980 / 2001"
+    },
+    {
+     "from": 28,
+     "to": 30,
+     "theme": "Elegance",
+     "product": "Masterpiece 名作"
+    }
+   ],
+   "pageWidth": 1600,
+   "pageHeight": 900,
+   "hash": "positioning",
+   "layout": "feature"
+  },
+  {
+   "workId": "merchive",
+   "hash": "merchive",
+   "title": "MERCHIVE",
+   "subtitle": "Merch บน YouTube Shopping",
+   "version": "ภาษาไทยและอังกฤษ",
+   "pageCount": 10,
+   "pageWidth": 1000,
+   "pageHeight": 1778,
+   "pagePath": "book/merchive/{lang}-p{n}.webp",
+   "langs": [
+    [
+     "th",
+     "ภาษาไทย"
+    ],
+    [
+     "en",
+     "English"
+    ]
+   ],
+   "toc": [
+    {
+     "from": 1,
+     "to": 1,
+     "theme": "ทำไม Merch ต้องอยู่บน YouTube"
+    },
+    {
+     "from": 2,
+     "to": 2,
+     "theme": "ทำไมต้อง YouTube"
+    },
+    {
+     "from": 3,
+     "to": 3,
+     "theme": "โอกาสจากแฟนต่างประเทศ"
+    },
+    {
+     "from": 4,
+     "to": 4,
+     "theme": "YouTube Shopping ได้อะไร"
+    },
+    {
+     "from": 5,
+     "to": 7,
+     "theme": "ผลลัพธ์ 3 สัปดาห์แรก"
+    },
+    {
+     "from": 8,
+     "to": 8,
+     "theme": "วิธีการทำงาน"
+    },
+    {
+     "from": 9,
+     "to": 9,
+     "theme": "ทำไมต้อง MERCHIVE"
+    },
+    {
+     "from": 10,
+     "to": 10,
+     "theme": "ปิดท้าย"
+    }
+   ]
+  }
+ ]
+}
