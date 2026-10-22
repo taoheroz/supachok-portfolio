@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T19:00:00+07:00",
+ "updatedAt": "2026-10-22T11:59:48.919921+00:00",
  "works": [
   {
    "id": "dynamic-product-positioning",
@@ -219,7 +219,7 @@
    "featured": true,
    "featuredOrder": 3,
    "status": "published",
-   "homeOrder": 5
+   "homeOrder": 6
   },
   {
    "id": "kurostreetsim",
@@ -268,7 +268,7 @@
    "featuredOrder": 5,
    "status": "published",
    "cover": "img/covers/kurostreetsim.webp",
-   "homeOrder": 6
+   "homeOrder": 7
   },
   {
    "id": "friend-fight",
@@ -306,7 +306,51 @@
    "featuredOrder": 6,
    "status": "published",
    "cover": "img/covers/friend-fight.webp",
-   "homeOrder": 7
+   "homeOrder": 8,
+   "homeWide": "desk"
+  },
+  {
+   "id": "pawfit",
+   "slug": "pawfit",
+   "title": "PawFit",
+   "summary": "แอปดูแลสุขภาพแบบ PWA ติดตั้งลงหน้าจอ iPhone ได้ ใช้บันทึกแคลอรี โปรตีน น้ำ การนอน และแผนออกกำลังกายแบบค่อยเป็นค่อยไป มีน้องแมวให้เลี้ยงเป็นแรงจูงใจให้อยากกลับมาใช้ทุกวัน สร้างเองโดยใช้ AI ช่วยเขียนโค้ด",
+   "categories": [
+    "งานอดิเรก"
+   ],
+   "tags": [
+    "App",
+    "PWA",
+    "AI workflow",
+    "GitHub Pages"
+   ],
+   "mediaType": "app",
+   "projectDate": "2026-10",
+   "datePrecision": "month",
+   "role": "ออกแบบและพัฒนาแอปโดยใช้ AI",
+   "collaborators": [],
+   "context": null,
+   "objective": null,
+   "process": [],
+   "deliverables": [
+    "แอป PWA เพิ่มไปยังหน้าจอโฮมบน iPhone ได้ และเปิดได้แม้ไม่มีเน็ต",
+    "บันทึกอาหารแบบแตะเดียว พร้อมนับแคลอรี โปรตีน คาร์บ และไขมัน",
+    "แผนออกกำลังกาย (เวทเต็มตัวและคาร์ดิโอ) พร้อมตัวเลือกสั้น 10 นาที",
+    "ระบบเลี้ยงน้องแมว มีเลเวล ภารกิจ และร้านของแต่งตัว"
+   ],
+   "outcomes": [],
+   "links": [
+    {
+     "url": "https://taoheroz.github.io/pawfit/",
+     "label": "เปิดแอป PawFit"
+    }
+   ],
+   "verified": false,
+   "featured": true,
+   "featuredOrder": 4,
+   "status": "published",
+   "cover": "img/covers/pawfit.webp",
+   "homeOrder": 5,
+   "homeWide": "all"
   }
  ],
  "books": [
